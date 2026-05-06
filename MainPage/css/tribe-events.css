@@ -1,0 +1,122 @@
+/* custom style for the events plugin to match furman style @mmallick */
+
+.tribe-events-c-top-bar__datepicker-nav-icon-svg {
+	display: none;
+}
+
+.tribe-events-calendar-list__month-separator-text {
+	color: rgb(88, 44, 131) !important;
+	font-family: 'Oswald', sans-serif !important;
+}
+
+.tribe-common .tribe-common-c-btn, .tribe-common a.tribe-common-c-btn {
+	background-color: rgb(88, 44, 131);
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase !important;
+}
+.tribe-common .tribe-common-c-btn:focus,.tribe-common .tribe-common-c-btn:hover,.tribe-common a.tribe-common-c-btn:focus,.tribe-common a.tribe-common-c-btn:hover{
+	background-color: #1d0e33 !important;
+}
+.tribe-events .tribe-events-c-ical__link:active,.tribe-events .tribe-events-c-ical__link:focus,.tribe-events .tribe-events-c-ical__link:hover{
+	color:#fff !important;
+	background-color: #1d0e33 !important;
+}
+.tribe-common a {
+	font-family: 'Oswald', sans-serif !important;
+	color: rgb(88, 44, 131) !important; 
+}
+.tribe-common p {
+	font-family: 'Epilogue', sans-serif !important;
+}
+.tribe-common h1 {
+	font-family: Oswald Regular !important; 
+}
+.tribe-common h2 {
+	font-family: 'Oswald', sans-serif !important; 
+}
+.tribe-common h3 {
+	font-family: 'Oswald', sans-serif !important;
+}
+.tribe-common span {
+	font-family: 'Oswald', sans-serif !important; 
+}
+.tribe-events-event-meta {
+	font-family: 'Oswald', sans-serif !important;
+}
+.tribe-events-event-meta a, .tribe-events-event-meta a:visited {
+	color: rgb(88, 44, 131) !important;
+}
+.tribe-events-cal-links .tribe-events-gcal, .tribe-events-cal-links .tribe-events-ical {
+	font-family: 'Oswald', sans-serif !important;
+	color: rgb(88, 44, 131) !important;
+}
+.tribe-events-back a, .tribe-events-back a:visited {
+	font-family: 'Oswald', sans-serif !important;
+	color: rgb(88, 44, 131) !important;
+}
+.tribe-events .datepicker .day.active{
+	background-color: rgb(88, 44, 131);
+	font-family: 'Oswald', sans-serif;
+}
+.tribe-events .tribe-events-calendar-month__day--current .tribe-events-calendar-month__day-date{
+	color: rgb(88, 44, 131) !important; 
+}
+.tribe-events .tribe-events-c-ical__link {
+	border: 1px solid rgb(88, 44, 131) !important; 
+}
+.tribe-common .tribe-common-c-svgicon {
+	color: rgb(88, 44, 131) !important; 
+}	
+.tribe-events-single-event-title{
+	font-family: 'Oswald', sans-serif !important; 
+}
+.tribe-events-content {
+	font-family: 'Oswald', sans-serif !important; 
+}
+.tribe-events-schedule .recurringinfo, .tribe-events-schedule h2, .tribe-related-event-info .recurringinfo {
+	font-family: 'Oswald', sans-serif !important;
+}
+.tribe-events-content a {
+	border-bottom:#201547 2px solid !important;
+	color:#fff !important;
+	transition:color .2s ease !important;
+}
+.tribe-events-content a:active,.tribe-events-content a:focus,.tribe-events-content a:hover { 
+	border-bottom:#201547 2px solid !important;
+	color:#201547 !important;
+}
+.tribe-events-content a {
+	text-decoration:none
+}
+.tribe-events-content a {
+	color: #201547 !important;
+}
+.tribe-events-content a:hover {
+	color: #582c83 !important;
+}
+
+.tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button.tribe-events-c-subscribe-dropdown__button--active, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:focus-within, .tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button:hover {
+	background-color:#582c83 !important;
+	font-family: 'Oswald', sans-serif !important;
+	text-transform: uppercase !important;
+	color: white !important;
+}
+
+.tribe-common .tribe-common-c-btn-border, .tribe-common a.tribe-common-c-btn-border {
+	color:#582c83 !important;
+	border-color: #582c83 !important;
+	font-family: 'Oswald', sans-serif !important;
+	text-transform: uppercase !important;
+}
+
+.tribe-events .tribe-events-c-subscribe-dropdown .tribe-events-c-subscribe-dropdown__button-text {
+	text-transform: uppercase !important;
+}
+
+.tribe-common .tribe-common-c-btn-border-small, .tribe-common a.tribe-common-c-btn-border-small {
+	text-transform: uppercase !important;
+}
+
+.tribe-common--breakpoint-medium.tribe-events .tribe-events-c-view-selector--tabs .tribe-events-c-view-selector__list-item-link {
+	text-transform: uppercase !important;
+}
