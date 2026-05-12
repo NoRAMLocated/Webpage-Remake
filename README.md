@@ -1,6 +1,8 @@
 # Hill-Institute-Prototype-Webpage
 This is the redesign for the Hill Institute's Innovation Academy.
 
+I would appreceate not forking the repo. Thanks
+
 Assest are property of Hill Institute
 Verbal permission was given by Eric Cooperman for use of this page
 All website information, redirects (not including social media or LinkedIn), staff contacts, institution information and emails are property of the Hill Institute.
